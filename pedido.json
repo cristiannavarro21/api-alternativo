@@ -1,26 +1,30 @@
 [
     {
-        "articulo": "Fútbol",
-        "cantidad": 1924,
-        "total": 456
+        "articulo":"Iluminador en Polvo",
+        "cantidad": 2,
+        "total": 456,
+        "forma de pago": "Efectivo"
      
     },
     {
-        "articulo": "Fútbol",
-        "cantidad": 1924,
-        "total": 765
+        "articulo": "Lapiz Delineador",
+        "cantidad": 1,
+        "total": 765,
+        "forma de pago": "Efectivo"
      
     },
     {
-        "articulo": "Fútbol",
-        "cantidad": 1924,
-        "total": 234
+        "articulo": "Iluminador en Polvo",
+        "cantidad": 3,
+        "total": 234,
+        "forma de pago": "Efectivo"
      
     },
     {
-        "articulo": "Fútbol",
-        "cantidad": 1924,
-        "total": 789
+        "articulo": "Toallas Humedas Desmaquillantes x25u",
+        "cantidad": 4,
+        "total": 789,
+        "forma de pago": "Efectivo"
      
     }
    
