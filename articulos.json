@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Perfilador de Cejas x3",
+        "imagen": 1924,
+        "precio": 160,
+        "stock": 1
+     
+    },
+    {
+        "nombre": "Iluminador en Polvo",
+        "imagen": 1924,
+        "precio": 135,
+        "stock": 1 
+    },
+    {
+        "nombre": "Lapiz Delineador",
+        "imagen": 1924,
+        "precio": 40,
+        "stock": 1
+     
+    },
+    {
+        "nombre": "Toallas Humedas Desmaquillantes x25u",
+        "imagen": 1924,
+        "precio": 70,
+        "stock": 1 
+    }
+]
