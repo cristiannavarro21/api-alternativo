@@ -1,0 +1,31 @@
+[
+    {
+        "nombre": "Juan Perez",
+        "ci": 1924,
+        "direccion": "Zudañez 456",
+        "telefono": 43422212
+     
+    },
+    {
+        "nombre": "Julio Maria",
+        "ci": 1924,
+        "direccion": "Oribe 671",
+        "telefono": 43425678
+     
+    },
+    {
+        "nombre": "Brayan Navarro",
+        "ci": 1924,
+        "direccion": "25 de mayo 623",
+        "telefono": 44327890
+     
+    },
+    {
+        "nombre": "Omar Diaz",
+        "ci": 47713471,
+        "direccion": "18 de julio 514",
+        "telefono": 43425455
+     
+    }
+    
+]
