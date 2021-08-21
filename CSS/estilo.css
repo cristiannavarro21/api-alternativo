@@ -1,0 +1,11 @@
+body {
+    margin: 0em;
+}
+
+.cover {
+    height: 400px;
+    background-image:img/fondo.jpg ;
+    color: white;
+}
+
+
